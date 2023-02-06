@@ -1,7 +1,2 @@
 # hello-world
-a short description for the interested gitz
-i am getting education to become a certified python developer.
-first i started with development essentials, that covers html, css and a bit of javascript.
-then a u8 day course for python will start.
-followed by a 3 day introduction to devops and agile.
-and we will end with 2 days of effective communication.
+A short description for the interested gits I am getting education to become a certified python developer. First I started with development essentials, that covers HTML, CSS and a bit of JavaScript. Then an 8-day course for Python will start. Followed by a 3-day introduction to DevOps and agile. And we will end with 2 days of effective communication.
